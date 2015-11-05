@@ -1,17 +1,17 @@
 # Site settings
-title: Baasdesign Jekyll Template
-email: info@baasdesign.nl
-description: Baasdesign Jekyll Template
+title: Laura Nagtegaal
+email: laura.nagtegaal@hotmail.com
+description: ...
 # for live
-baseurl: "/jekyll"
-siteurl: "baasdesign.github.io/jekyll"
+baseurl: "/portfolio"
+siteurl: "lauranagtegaal.github.io/portfolio"
 
 #for local
 # baseurl: ""
 # siteurl: "localhost:4000"
 
-twitter_username: baasdesign
-github_username:  baasdesign
+twitter_username: Laura Nagtegaal
+github_username:  Laura Nagtegaal
 
 # Build settings #
 markdown: kramdown
